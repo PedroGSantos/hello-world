@@ -1,2 +1,2 @@
 # hello-world
-Meu primeiro repositório para matéria de engenharia de software 2
+Sou o Pedro Santos, tenho 21 anos e sou estudante de Ciência da Computação da UFSCar
